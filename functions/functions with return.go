@@ -1,5 +1,6 @@
 package main
 
+// functions with arguments and with return type
 import "fmt"
 
 func main() {
